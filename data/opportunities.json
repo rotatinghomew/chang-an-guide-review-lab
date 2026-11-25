@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "O0001",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0002",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0003",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0004",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0005",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0006",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0007",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0008",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0009",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": true
+  },
+  {
+    "id": "O0010",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0011",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": true
+  },
+  {
+    "id": "O0012",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0013",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0014",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0015",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0016",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0017",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0018",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": true
+  },
+  {
+    "id": "O0019",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0020",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0021",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0022",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0023",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0024",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0025",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0026",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0027",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": true
+  },
+  {
+    "id": "O0028",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0029",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0030",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0031",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0032",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0033",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0034",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0035",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0036",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": true
+  },
+  {
+    "id": "O0037",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0038",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0039",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0040",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0041",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0042",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0043",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0044",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": true
+  },
+  {
+    "id": "O0045",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": true
+  },
+  {
+    "id": "O0046",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0047",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0048",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0049",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0050",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0051",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0052",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0053",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0054",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": true
+  },
+  {
+    "id": "O0055",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0056",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0057",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0058",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0059",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0060",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0061",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0062",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0063",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": true
+  },
+  {
+    "id": "O0064",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0065",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0066",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0067",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0068",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0069",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0070",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0071",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-01",
+    "offline": false
+  },
+  {
+    "id": "O0072",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-01",
+    "offline": true
+  },
+  {
+    "id": "O0073",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0074",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0075",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0076",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0077",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0078",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0079",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0080",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0081",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0082",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0083",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0084",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0085",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0086",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0087",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0088",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0089",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0090",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0091",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0092",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0093",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0094",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0095",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0096",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0097",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0098",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0099",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0100",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0101",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0102",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0103",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0104",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0105",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0106",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0107",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0108",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0109",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0110",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0111",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0112",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0113",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0114",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0115",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0116",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0117",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0118",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0119",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0120",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0121",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0122",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0123",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0124",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0125",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0126",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0127",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0128",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0129",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0130",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0131",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0132",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0133",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0134",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0135",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0136",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0137",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0138",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0139",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0140",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0141",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0142",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0143",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0144",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": true
+  },
+  {
+    "id": "O0145",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-02",
+    "offline": false
+  },
+  {
+    "id": "O0146",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0147",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0148",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0149",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0150",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0151",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0152",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0153",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": true
+  },
+  {
+    "id": "O0154",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": true
+  },
+  {
+    "id": "O0155",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0156",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0157",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0158",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0159",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0160",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0161",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0162",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": true
+  },
+  {
+    "id": "O0163",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0164",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0165",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0166",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0167",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0168",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0169",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0170",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0171",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": true
+  },
+  {
+    "id": "O0172",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0173",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0174",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0175",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0176",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0177",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0178",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0179",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0180",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": true
+  },
+  {
+    "id": "O0181",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0182",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0183",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0184",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0185",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0186",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0187",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": true
+  },
+  {
+    "id": "O0188",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0189",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": true
+  },
+  {
+    "id": "O0190",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0191",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0192",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0193",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0194",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0195",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0196",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0197",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0198",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": true
+  },
+  {
+    "id": "O0199",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0200",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0201",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0202",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0203",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0204",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0205",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0206",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0207",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": true
+  },
+  {
+    "id": "O0208",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0209",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0210",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0211",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0212",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0213",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0214",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0215",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0216",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": true
+  },
+  {
+    "id": "O0217",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0218",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-03",
+    "offline": false
+  },
+  {
+    "id": "O0219",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0220",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0221",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0222",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0223",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0224",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0225",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0226",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0227",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0228",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0229",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0230",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0231",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0232",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0233",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0234",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0235",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0236",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0237",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0238",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0239",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0240",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0241",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0242",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0243",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0244",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0245",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0246",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0247",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0248",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0249",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0250",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0251",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0252",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0253",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0254",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0255",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0256",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0257",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0258",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0259",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0260",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0261",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0262",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0263",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0264",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0265",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0266",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0267",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0268",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0269",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0270",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0271",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0272",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0273",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0274",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0275",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0276",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0277",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0278",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0279",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0280",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0281",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0282",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0283",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0284",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0285",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0286",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0287",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0288",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": true
+  },
+  {
+    "id": "O0289",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0290",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0291",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-04",
+    "offline": false
+  },
+  {
+    "id": "O0292",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0293",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0294",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0295",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0296",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0297",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": true
+  },
+  {
+    "id": "O0298",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0299",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0300",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0301",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0302",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0303",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0304",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0305",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0306",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": true
+  },
+  {
+    "id": "O0307",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0308",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0309",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0310",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0311",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0312",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0313",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0314",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0315",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": true
+  },
+  {
+    "id": "O0316",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0317",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0318",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0319",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": true
+  },
+  {
+    "id": "O0320",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0321",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0322",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0323",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0324",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": true
+  },
+  {
+    "id": "O0325",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0326",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0327",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0328",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0329",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0330",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": true
+  },
+  {
+    "id": "O0331",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0332",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0333",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": true
+  },
+  {
+    "id": "O0334",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0335",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0336",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0337",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0338",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0339",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0340",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0341",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0342",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": true
+  },
+  {
+    "id": "O0343",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0344",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0345",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0346",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0347",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0348",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0349",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "英",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0350",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0351",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": true
+  },
+  {
+    "id": "O0352",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0353",
+    "device": "D2",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0354",
+    "device": "D3",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0355",
+    "device": "D4",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0356",
+    "device": "D5",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0357",
+    "device": "D6",
+    "cabinet": "K2",
+    "language": "中",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0358",
+    "device": "D7",
+    "cabinet": "K3",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0359",
+    "device": "D8",
+    "cabinet": "K4",
+    "language": "英",
+    "version": "v1",
+    "day": "2027-04-05",
+    "offline": false
+  },
+  {
+    "id": "O0360",
+    "device": "D1",
+    "cabinet": "K1",
+    "language": "中",
+    "version": "v2",
+    "day": "2027-04-05",
+    "offline": true
+  }
+]

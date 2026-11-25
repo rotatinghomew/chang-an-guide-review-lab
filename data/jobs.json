@@ -1,0 +1,26 @@
+[
+  {
+    "id": "J1",
+    "opportunity": "O0036",
+    "staff": "R1",
+    "state": "已开始",
+    "due": "2027-04-09",
+    "prob": 0.12
+  },
+  {
+    "id": "J2",
+    "opportunity": "O0026",
+    "staff": "R2",
+    "state": "已排",
+    "due": "2027-04-08",
+    "prob": 0.1
+  },
+  {
+    "id": "J3",
+    "opportunity": "O0039",
+    "staff": "R2",
+    "state": "候选",
+    "due": "2027-04-08",
+    "prob": null
+  }
+]

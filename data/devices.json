@@ -1,0 +1,58 @@
+[
+  {
+    "id": "D1",
+    "package": "PK1",
+    "zone": "北",
+    "approved": "v1/v2",
+    "fallback": "人工选物"
+  },
+  {
+    "id": "D2",
+    "package": "PK1",
+    "zone": "北",
+    "approved": "v1/v2",
+    "fallback": "人工选物"
+  },
+  {
+    "id": "D3",
+    "package": "PK2",
+    "zone": "北",
+    "approved": "v1/v2",
+    "fallback": "人工选物"
+  },
+  {
+    "id": "D4",
+    "package": "PK2",
+    "zone": "北",
+    "approved": "v1/v2",
+    "fallback": "人工选物"
+  },
+  {
+    "id": "D5",
+    "package": "PK3",
+    "zone": "南",
+    "approved": "v1/v2",
+    "fallback": null
+  },
+  {
+    "id": "D6",
+    "package": "PK3",
+    "zone": "南",
+    "approved": "v1/v2",
+    "fallback": "人工选物"
+  },
+  {
+    "id": "D7",
+    "package": "PK4",
+    "zone": "南",
+    "approved": "v1/v2",
+    "fallback": "人工选物"
+  },
+  {
+    "id": "D8",
+    "package": "PK4",
+    "zone": "南",
+    "approved": "v1/v2",
+    "fallback": "人工选物"
+  }
+]

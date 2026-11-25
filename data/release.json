@@ -1,0 +1,34 @@
+[
+  {
+    "id": "L1",
+    "device": "D1",
+    "package": "PK1",
+    "request": "v2",
+    "receipt": "v2",
+    "day": "2027-04-06"
+  },
+  {
+    "id": "L2",
+    "device": "D2",
+    "package": "PK1",
+    "request": "v2",
+    "receipt": null,
+    "day": "2027-04-06"
+  },
+  {
+    "id": "L3",
+    "device": "D3",
+    "package": "PK2",
+    "request": "v2",
+    "receipt": "v1",
+    "day": "2027-04-06"
+  },
+  {
+    "id": "L4",
+    "device": "D5",
+    "package": "PK3",
+    "request": "v2",
+    "receipt": null,
+    "day": "2027-04-07"
+  }
+]

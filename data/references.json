@@ -1,0 +1,66 @@
+[
+  {
+    "id": "F8",
+    "opportunity": "O0008",
+    "object": "X1",
+    "protocol": "封柜双人核验",
+    "accepted": true,
+    "recorded": "2027-04-04"
+  },
+  {
+    "id": "F20",
+    "opportunity": "O0020",
+    "object": "X2",
+    "protocol": "封柜双人核验",
+    "accepted": true,
+    "recorded": "2027-04-04"
+  },
+  {
+    "id": "F24",
+    "opportunity": "O0024",
+    "object": "X1",
+    "protocol": "封柜双人核验",
+    "accepted": false,
+    "recorded": "2027-04-04"
+  },
+  {
+    "id": "F32",
+    "opportunity": "O0032",
+    "object": "X1",
+    "protocol": "封柜双人核验",
+    "accepted": true,
+    "recorded": "2027-04-04"
+  },
+  {
+    "id": "F40",
+    "opportunity": "O0040",
+    "object": "X1",
+    "protocol": "封柜双人核验",
+    "accepted": true,
+    "recorded": "2027-04-04"
+  },
+  {
+    "id": "F62",
+    "opportunity": "O0062",
+    "object": "X6",
+    "protocol": "封柜双人核验",
+    "accepted": true,
+    "recorded": "2027-04-04"
+  },
+  {
+    "id": "F68",
+    "opportunity": "O0068",
+    "object": "X2",
+    "protocol": "封柜双人核验",
+    "accepted": true,
+    "recorded": "2027-04-04"
+  },
+  {
+    "id": "F91",
+    "opportunity": "O0091",
+    "object": "X7",
+    "protocol": "封柜双人核验",
+    "accepted": true,
+    "recorded": "2027-04-04"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "X1",
+    "cabinet": "K1",
+    "pair": "P1"
+  },
+  {
+    "id": "X2",
+    "cabinet": "K1",
+    "pair": "P1"
+  },
+  {
+    "id": "X3",
+    "cabinet": "K2",
+    "pair": "P2"
+  },
+  {
+    "id": "X4",
+    "cabinet": "K2",
+    "pair": "P2"
+  },
+  {
+    "id": "X5",
+    "cabinet": "K3",
+    "pair": "P3"
+  },
+  {
+    "id": "X6",
+    "cabinet": "K3",
+    "pair": "P3"
+  },
+  {
+    "id": "X7",
+    "cabinet": "K4",
+    "pair": "P4"
+  },
+  {
+    "id": "X8",
+    "cabinet": "K4",
+    "pair": "P4"
+  }
+]
